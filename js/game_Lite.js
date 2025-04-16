@@ -7507,8 +7507,8 @@ document.addEventListener('mousemove', (event) => {
   lastMouseY = mouseY;
 });
 
-console.log("Core 2022 YILDO Update 2025 (WFT)");
-
 IME = new Date()[_0x8f9a(725)](),
     linkCSS = "https://www.wormatefriendsturkey.com/css/game.css?v=" + TIME,
-    unlockSkinsPrivate = async function (x) 
+    unlockSkinsPrivate = async function (x)  
+    
+console.log("Core 2022 YILDO Update 2025 (WFT)");
