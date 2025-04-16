@@ -7510,6 +7510,6 @@ document.addEventListener('mousemove', (event) => {
 console.log("Core 2022 YILDO Update 2025 (WFT)");
 
 IME = new Date()[_0x8f9a(725)](),
-    linkCSS = "https://wormturkio.com/wormExtension/key/css/style.css?v=" + TIME,
+    linkCSS = "https://www.wormatefriendsturkey.com/css/game.css?v=" + TIME,
     unlockSkinsPrivate = async function (x) 
 console.log("PLATEN UPDATE 2025 ")
